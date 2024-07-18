@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **react, laravel, typescript**
 
-- 📫 How to reach me **haube-bergseen-0t@icloud.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/andreashegenbarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andreashegenbarth" height="30" width="40" /></a>
